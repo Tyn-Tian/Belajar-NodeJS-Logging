@@ -9,7 +9,7 @@ test('create new logger with console & file transport', () => {
                 filename: "application.log"
             }),
             new winston.transports.File({
-                filename: "eko.log"
+                filename: "tian.log"
             }),
         ]
     });
