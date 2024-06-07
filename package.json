@@ -1,6 +1,7 @@
 {
   "name": "belajar-nodejs-unit-test",
   "version": "1.0.0",
+  "type": "module",
   "description": "Belajar NodeJs Unit Test",
   "main": "./src/index.js",
   "scripts": {
